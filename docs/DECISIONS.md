@@ -224,3 +224,9 @@ The user's answers and rulings, newest last, each with its date.
     its first entry, the Library window leading with Download and Source code. Live at
     https://smsithlord.com/?page=library&item=gobinator and https://smsithlord.com/?page=gobinator (checked). A
     future release: mail the hub the new download address. Which other tools join Apps is the user's call.
+- **2026-10-30 — A post mortem on the 1.1 release** (the user: "Post mortem", on the board's offer after the release
+  milestone). Opened on the board as `gobinator-1-1-how-it-went`, covering gob-u8hi and gob-ruma (2026-10-27 to
+  2026-10-30); JK Resurrection, the hub and OpenJKDF2 Libretro are invited to answer, then it closes with what we
+  take away. The lessons: keep writing each user decision down the day it is made and measuring the engine before
+  building on an assumption; avoid carrying an item whose premise nobody verified, committing generated art before
+  the user has picked a direction, and changing two variables between a failing test and its retest.
