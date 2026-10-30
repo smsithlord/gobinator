@@ -95,8 +95,12 @@ The Vanilla folders are never written or run in; tests use copies in `testinstal
   send it a handoff through the board.
 - **Ask the user** whenever a goal or a trade-off is theirs to decide. Ask in small batches, and record each answer in
   `docs/DECISIONS.md` with its date.
-- Commit focused work in this repo. There is no remote yet. A GitHub repo, a licence and a public download are the
-  user's decisions.
+- Commit focused work in this repo and push `main` to `origin`, the public repo https://github.com/smsithlord/gobinator
+  (CC0, since 2026-10-30, opened with release v1.1; `main` began then as one commit). **Never push the branch
+  `archive/2026-10-development`**: it is the development history before the release, kept local on purpose (28 MB of
+  superseded art, and the user's working notes); commit hashes quoted in docs/ and on the board before 2026-10-30
+  refer to it. A new release is `src/version.h`, `package\make-zip.ps1`, then `gh release create` with the zip; the
+  user gives the go.
 
 ## The board
 

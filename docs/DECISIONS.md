@@ -204,3 +204,10 @@ The user's answers and rulings, newest last, each with its date.
   the board and the media README (06746d0, f57f1dd, 0e2534b, ad273ea, 2114ee9 and others) refer to that branch.
   The internal docs (this file, docs/INSTALLS.md with the user's drive paths, the board files) are published as they
   are: not secrets, the user's call.
+- **2026-10-30 — Gobinator 1.1 is out.** The public repo is https://github.com/smsithlord/gobinator (CC0, topics
+  jedi-knight, dark-forces-2, openjkdf2, launcher, windows), opened with the release
+  https://github.com/smsithlord/gobinator/releases/tag/v1.1, whose asset `gobinator-1.1.zip` (SHA-256
+  FBA88D38AA2CAEEC491A34A9321A297E47A53F4A9779D2FEF9B7AD7ECC5F5F9E) holds `gobinator.exe` 1.1, `gobinator.ini`,
+  `README.md` and `LICENSE`. The listing (`media/listing/package.json`) names the repo and the download; the hub was
+  handed the package to copy. The user's play folder and Steam folder still hold the beta 1 EXE, the same code with
+  the beta version stamp, until the user asks for the release EXE there. Unsigned, as decided.
