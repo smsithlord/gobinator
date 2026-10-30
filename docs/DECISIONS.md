@@ -211,3 +211,10 @@ The user's answers and rulings, newest last, each with its date.
   `README.md` and `LICENSE`. The listing (`media/listing/package.json`) names the repo and the download; the hub was
   handed the package to copy. The user's play folder and Steam folder still hold the beta 1 EXE, the same code with
   the beta version stamp, until the user asks for the release EXE there. Unsigned, as decided.
+- **2026-10-30 — The site follows the release: the hub refreshes the package, drops "coming soon", and lists
+  Gobinator in NavMe under an Apps category** (the user: "Update our media package on the hub and ask them to push
+  the update, we are released. We should also go into NavMe under an Apps category."). The hub owns its copy of the
+  package and NavMe, and copies from this repo itself, so the ask went by board mail (a handoff to `smsithlordcom`,
+  superseding mail-5nne): refresh `library/gobinator` from `media/listing` (the hub's copy had only the 2026-10-29
+  package.json and no media), take `soon` off the registry entry and set its GitHub and download, add an Apps
+  flyout to NavMe's Library menu with Gobinator in it, and publish.
