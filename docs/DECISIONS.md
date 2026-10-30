@@ -218,3 +218,9 @@ The user's answers and rulings, newest last, each with its date.
   superseding mail-5nne): refresh `library/gobinator` from `media/listing` (the hub's copy had only the 2026-10-29
   package.json and no media), take `soon` off the registry entry and set its GitHub and download, add an Apps
   flyout to NavMe's Library menu with Gobinator in it, and publish.
+  - **Done by the hub the same hour** (hub-iuuh, with screenshots): the package refreshed (the new masters kept beside
+    the old as `-2` files, the hub never overwrites a master), `soon` gone, download and GitHub set, Gobinator in
+    NavMe's new **Apps** flyout (between Websites and Web Demos, its icon a window frame with a download arrow) as
+    its first entry, the Library window leading with Download and Source code. Live at
+    https://smsithlord.com/?page=library&item=gobinator and https://smsithlord.com/?page=gobinator (checked). A
+    future release: mail the hub the new download address. Which other tools join Apps is the user's call.
