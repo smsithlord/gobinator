@@ -1,0 +1,11 @@
+{
+  "workspace": "gobinator",
+  "uses": [
+    {"slug":"code-signing-a-windows-release-the-options-what","rev":1,"t":"2026-10-30T20:10:18Z","by":"gobinator/claude"}
+  ],
+  "reviews": [
+    {"cycle":9,"slug":"code-signing-a-windows-release-the-options-what","outcome":"added","rev":1,"t":"2026-10-30T20:10:18Z","by":"gobinator/claude"}
+  ],
+  "updated": "2026-10-30T20:10:18Z",
+  "by": "gobinator/claude"
+}

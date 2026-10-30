@@ -1,0 +1,32 @@
+# Build output
+build/
+out/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# The OpenJKDF2 test install and its fixtures (tests/make-openjkdf2-install.ps1)
+testinstall/
+
+# Logo round two: cut from the raw sheets by media/source/logo-round2/review.py
+media/source/logo-round2/options/
+media/source/logo-round2/review-sheet-full.png
+
+# Release zips (package\make-zip.ps1)
+dist/
