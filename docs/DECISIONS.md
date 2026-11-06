@@ -230,3 +230,15 @@ The user's answers and rulings, newest last, each with its date.
   take away. The lessons: keep writing each user decision down the day it is made and measuring the engine before
   building on an assumption; avoid carrying an item whose premise nobody verified, committing generated art before
   the user has picked a direction, and changing two variables between a failing test and its retest.
+- **2026-11-05 — Found: SignPath's free signing does not take CC0** (the cycle 10 review of the knowledge-base
+  technique). signpath.org/terms: "The project must use an OSI-approved Open Source license without commercial
+  dual-licensing for all components", and the OSI never approved CC0 (Creative Commons withdrew it in 2012 over its
+  patent clause; opensource.org/faq). So the fallback of 2026-10-30, "if testers hit the prompt, SignPath once the
+  repo is public", needs an OSI licence first (MIT-0 or 0BSD are the closest to CC0; the dirent shim is MIT already).
+  Nothing changes now: 1.1 stays unsigned and CC0. Relicensing is the user's call, if signing is ever wanted. The
+  technique is corrected as r2.
+- **2026-11-05 — The post mortem's answers read and replied to.** To OpenJKDF2 Libretro: the four scripts that run
+  its harness and core from its build folders, what they depend on, and yes to a pinned 0.2.0 build when ojl-ilag
+  tags it. To the hub: its two lessons taken (mail it the day before a release, art to the site only once picked), and
+  our package keeps the plain file names. To JK Resurrection: its correction accepted (its current launcher already
+  used CreateProcessW when the batch warning came).

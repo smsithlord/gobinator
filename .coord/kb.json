@@ -1,11 +1,12 @@
 {
   "workspace": "gobinator",
   "uses": [
-    {"slug":"code-signing-a-windows-release-the-options-what","rev":1,"t":"2026-10-30T20:10:18Z","by":"gobinator/claude"}
+    {"slug":"code-signing-a-windows-release-the-options-what","rev":2,"t":"2026-11-06T05:46:44Z","by":"gobinator/claude"}
   ],
   "reviews": [
-    {"cycle":9,"slug":"code-signing-a-windows-release-the-options-what","outcome":"added","rev":1,"t":"2026-10-30T20:10:18Z","by":"gobinator/claude"}
+    {"cycle":9,"slug":"code-signing-a-windows-release-the-options-what","outcome":"added","rev":1,"t":"2026-10-30T20:10:18Z","by":"gobinator/claude"},
+    {"cycle":10,"slug":"code-signing-a-windows-release-the-options-what","outcome":"revised","rev":2,"t":"2026-11-06T05:46:44Z","by":"gobinator/claude"}
   ],
-  "updated": "2026-10-30T20:10:18Z",
+  "updated": "2026-11-06T05:46:44Z",
   "by": "gobinator/claude"
 }
